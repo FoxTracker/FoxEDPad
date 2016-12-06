@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+<PreferenceCategory
+    android:title="Connection settings">
+
+    <EditTextPreference
+        android:title="Host Ip"
+        android:defaultValue="192.168.0.3"
+        android:key="host_addr">
+    </EditTextPreference>
+    <EditTextPreference
+        android:title="Port"
+        android:defaultValue="1800"
+        android:numeric="integer"
+        android:maxLength="4"
+        android:key="host_port">
+    </EditTextPreference>
+</PreferenceCategory>
+
+
+
+
+
+
+
+
+
+
+
+</PreferenceScreen>

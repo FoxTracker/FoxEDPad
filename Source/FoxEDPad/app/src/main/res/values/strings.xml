@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoxEDPad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stringButtonChaff">Chaff</string>
+    <string name="stringButtonHeat">Heat Sink</string>
+    <string name="stringButtonLastWaypoint">Last Waypoint</string>
+    <string name="stringButton_HighWake">Jump high wake</string>
+    <string name="stringButton_LowWake">Jump low wake</string>
+    <string name="stringButton_Preferences">Preferences</string>
+    <string name="stringConnectionErrorHead">Connection Error</string>
+    <string name="stringConnectionErrorText">Please check connection or settings!</string>
+
+</resources>
